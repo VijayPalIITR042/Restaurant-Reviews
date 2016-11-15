@@ -1,7 +1,8 @@
-# Restaurant-Reviews
+# Restaurant-Reviews 
+the following steps to run the application.
 1: Download Zip file and then extract
-2: After extracting  you will get a folder ,inside a folder you will get a JSON.txt file .
-3: click index.html then you will find in browser UI where you have to copy data from JSON.txt and paste in text area  in the browser.
+2: Plz find the JSON file:https://docs.google.com/document/d/1d1qR4Tm263h-XgYpROIH9_1TQup05n55E9JZ5kBxfLY/edit
+3: click index.html then you will find in browser UI where you have to paste JSON in that  text area  in the browser.
 4: Then you will find according to JSON everything is to uptodate automatically arrangement.
 
 #Technology used:
